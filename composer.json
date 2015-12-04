@@ -1,0 +1,15 @@
+{
+    "name": "jhihao/helloworld",
+    "authors": [
+        {
+            "name": "Joshua",
+            "email": "syu.joshua@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Joshua\\HelloWorld\\": "src/app"
+        }
+    }
+}
